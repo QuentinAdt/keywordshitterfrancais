@@ -1,9 +1,9 @@
 {
-  "name": "keywordshitter2",
-  "version": "0.0.5",
-  "description": "The second generation of keyword shitter. Bigger, better, and more pungent than other products.",
+  "name": "keywordshitterfrancais",
+  "version": "0.0.1",
+  "description": "La deuxième génération de shitter de mots clés. Plus gros, meilleur et plus piquant que les autres produits.",
   "main": "public/js/main.js",
-  "repository": "https://github.com/wassname/keywordshitter2",
+  "repository": "https://github.com/quentinadt/keywordshitterfrancais",
   "scripts": {
     "test": "public/test.html",
     "build-css": "lessc ./src/less/main.less > public/css/style.css",
